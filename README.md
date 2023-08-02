@@ -36,6 +36,8 @@ if BMI > 0:
 
 else:
     print("Please enter correct values") 
+
+
 Output:
 Enter your height in centimeters (cms) 170
 Enter your Weight in Kg 67
